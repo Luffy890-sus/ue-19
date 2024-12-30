@@ -1,0 +1,18 @@
+.error {
+    color: red;
+    font-size: 0.9rem;
+    display: none;
+  }
+  .list {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .icons i {
+    margin-left: 10px;
+    cursor: pointer;
+  }
